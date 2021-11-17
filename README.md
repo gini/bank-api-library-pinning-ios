@@ -1,12 +1,11 @@
 <p align="center">
-<img src="./GiniBank_Logo.png" width="250">
+<img src="./Documentation/jazzy-theme/assets/img/logo.png" width="250">
 </p>
-
 # Gini Bank API Library Pinning for iOS
 
 [![Platform](https://img.shields.io/badge/platform-iOS-lightgrey.svg)]()
 [![Swift version](https://img.shields.io/badge/swift-5.0-orange.svg)]()
-
+[![Swift package manager](https://img.shields.io/badge/Swift_Package_Manager-compatible-orange?style=flat-square)]()
 
 The Gini Bank API Library Pinning provides ways to interact with the Gini Bank API and therefore, adds the possiblity to scan documents and extract information from them. The library supports certificate pinning.
 
